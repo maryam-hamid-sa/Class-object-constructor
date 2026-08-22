@@ -5,16 +5,16 @@ A lightweight Python script demonstrating the core principles of Object-Oriented
 ## 📝 Overview
 The `oop.py` script serves as a foundational example of modeling real-world entities in Python. It defines a `student` class designed to encapsulate student data and dynamically generate objects with unique attributes.
 
-## ✨ Key Features
+## Key Features
 *   **Class Definition:** Implements a structured `student` class.
 *   **Dynamic Initialization:** Utilizes the `__init__` constructor for seamless attribute assignment.
 *   **Data Encapsulation:** Stores individual student records including Name, Age, CGPA, and University.
 *   **Instance Generation:** Demonstrates the creation of multiple distinct objects from a single class blueprint.
 
-## 💻 Technologies Used
+## Technologies Used
 *   **Language:** Python 3.x
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure that Python 3 is installed on your local system. You can verify your installation by running:
@@ -39,7 +39,7 @@ Bash
 
 
 python oop.py
-📊 Expected Output
+## Expected Output
 Upon execution, the terminal will display the initialized attributes for each student instance:
 
 Plaintext
@@ -54,7 +54,7 @@ Student Name = minahil
 age = 45 
 Cgpa = 4.0 
 uni = uet
-👨‍💻 Author
+## Author
 Maryam Hamid
 
 GitHub: @maryam-hamid-sa
