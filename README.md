@@ -39,7 +39,8 @@ Bash
 
 
 python oop.py
-## Expected Output
+
+Expected Output
 Upon execution, the terminal will display the initialized attributes for each student instance:
 
 Plaintext
@@ -54,7 +55,9 @@ Student Name = minahil
 age = 45 
 Cgpa = 4.0 
 uni = uet
-## Author
+
+
+Author
 Maryam Hamid
 
 GitHub: @maryam-hamid-sa
