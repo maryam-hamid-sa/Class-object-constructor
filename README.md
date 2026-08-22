@@ -20,19 +20,19 @@ The `oop.py` script serves as a foundational example of modeling real-world enti
 Ensure that Python 3 is installed on your local system. You can verify your installation by running:
 ```bash
 python --version
-Execution
+**Execution**
 Clone this repository to your local machine:
 
 Bash
 
 
-git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
+git clone [https://github.com/maryam-hamid-sa/Class-object-constructor.git]
 Navigate to the project directory:
 
 Bash
 
 
-cd YourRepositoryName
+cd Class-object-constructor
 Run the script via the terminal:
 
 Bash
